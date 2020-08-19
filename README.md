@@ -2,7 +2,7 @@
 # README for TempConverter
 Version: 1.0.1
 By: z3m0n
-Last Modified: 6/10/2019
+Last Modified: 8/19/2020
 
 Simple temperature converter web application written with JavaScript, HTML, and CSS. Converts efficiently between Fahrenheit, Celsius, and Kelvin temperature scales. Plenty of room for improvement, but a decent working baseline to build on. Scales well to any screen size. Portable across all modern browsers.
 
@@ -14,7 +14,7 @@ First release of TempConverter using prompts to gather information. Written with
 ## HOSTING:
 https://z3m0n.github.io
 
-Will be moving to a different host in the near future.
+May be moving to a different host in the near future.
 
 
 ## WORKS IN PROGRESS:
