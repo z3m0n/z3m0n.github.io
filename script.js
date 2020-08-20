@@ -1,4 +1,6 @@
-
+/*
+	JS for TempConverter v1.0.1 by z3m0n
+*/
 
 function tempPrompt() {
 
