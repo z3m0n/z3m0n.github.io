@@ -1,8 +1,8 @@
 
 # README for TempConverter
-Version: 1.0.1
-By: z3m0n
-Last Modified: 8/19/2020
+Version: 1.0.1 <br />
+By: z3m0n <br />
+Last Modified: 8/19/2020 <br />
 
 Simple temperature converter web application written with JavaScript, HTML, and CSS. Converts efficiently between Fahrenheit, Celsius, and Kelvin temperature scales. Plenty of room for improvement, but a decent working baseline to build on. Scales well to any screen size. Portable across all modern browsers.
 
@@ -27,5 +27,5 @@ May be moving to a different host in the near future.
 - Work on front-end: layout, style, etc.
 	- implement Bootstrap
 
-### Version 1.1.2 is in the works with Node | React | Bootstrap
+### Version 1.1.0 is in the works with Node | React | Bootstrap
 
